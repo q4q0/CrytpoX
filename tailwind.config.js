@@ -5,6 +5,10 @@ module.exports = {
       fontFamily: {
         raleway: ['Raleway'],
       },
+      backgroundImage: {
+        img1: "url('/public/images/img1.jpg')",
+        img2: "url('/public/images/img2.jpg')",
+      },
     },
   },
   plugins: [],
