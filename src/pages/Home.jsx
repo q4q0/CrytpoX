@@ -12,13 +12,12 @@ const Home = () => {
             </nav>
             <div className='w-10/12 m-auto flex flex-col justify-center items-center mt-80'>
                 <h1 className='text-8xl text-white font-raleway'>
-                    #CrytpoX
+                    ~/CrytpoX
                 </h1>
                 <p
-                    className='text-2xl mt-20 text-white font-raleway font-thin'
-                >We go beyond that...</p>
+                    className='text-xl mt-20 text-white font-raleway font-thin'
+                >We go beyond encryption/hashing</p>
             </div>
-
         </div>
     )
 }
